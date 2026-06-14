@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-silueta-en-la-ventana/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Tu silueta en la ventana](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-silueta-en-la-ventana/) |
+| **Get License** | [Official Music Licensing for Tu silueta en la ventana](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-silueta-en-la-ventana/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu silueta en la ventana, mami, me tiene pensándote,
+> El humo en la habitación, y yo sigo imaginándote.
+> Tengo el motor encendido, dime si paso a buscarte,
+> Porque esta noche, baby, yo solo quiero probarte.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
