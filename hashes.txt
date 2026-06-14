@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu silueta en la ventana
+
+This log tracks the cryptographic history and versioning for the song **Tu silueta en la ventana** (tu-silueta-en-la-ventana).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T14:19:31.035645 | `v1` | `e3e50ea101f0ad06bfca64612a4b82cb0775bd0b61bbeb7e90e6603779c44e06` | `a8e6e73a440d416eeadfc38c6364a9753baa0374c56be35a731c19bc1292a9c7` | `2026-06-14_tu-silueta-en-la-ventana-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
